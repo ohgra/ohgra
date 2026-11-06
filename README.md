@@ -4,11 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arghodeep%20Nandi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=PhD%20Researcher%20%7C%20Trustworthy%20%26%20Explainable%20AI%20%7C%20LLM%20Reasoning&descAlignY=60&descSize=17" width="100%" alt="Arghodeep Nandi"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=2C9AB7&center=true&vCenter=true&width=720&lines=Measuring+what+language+models+actually+believe;Scoring+the+quality+of+LLM+reasoning+traces;Building+human-centric+claim+verification+systems;PhD+%40+IIT+Delhi+%7C+Electrical+Engineering" alt="Typing SVG"/>
-</a>
+<img src="./assets/header.svg" width="100%" alt="Arghodeep Nandi - Trustworthy AI, LLM Reasoning, Model Belief"/>
 
 <br/>
 
@@ -162,6 +158,12 @@ class ArghodeepNandi:
 
 ## Research Areas
 
+<div align="center">
+<img src="./assets/research-map.svg" width="100%" alt="Research map: claim to language model, three questions answered by my papers, leading to explainable and safe claim verification"/>
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -268,21 +270,6 @@ Stochastic processes, Markov models and multivariate analysis as tools for princ
 <br/>
 
 <!-- ===================================================================== -->
-<!--  STATS                                                                 -->
-<!-- ===================================================================== -->
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ohgra&show_icons=true&hide_border=true&bg_color=0f2027&title_color=2C9AB7&icon_color=2C9AB7&text_color=e6edf3&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohgra&layout=compact&hide_border=true&bg_color=0f2027&title_color=2C9AB7&text_color=e6edf3"/>
-
-</div>
-
-<br/>
-
-<!-- ===================================================================== -->
 <!--  OFF THE CLOCK                                                         -->
 <!-- ===================================================================== -->
 
@@ -298,6 +285,6 @@ there is a table.
 **Open to research collaborations and Research Scientist roles in LLMs, reasoning and trustworthy AI.**<br/>
 Reach me at [arghodeep.nandi@gmail.com](mailto:arghodeep.nandi@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
