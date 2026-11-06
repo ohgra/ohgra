@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2c5364"/><stop offset=".5" stop-color="#203a43"/><stop offset="1" stop-color="#0f2027"/></linearGradient></defs>
+<path d="M0 40 C 200 10, 400 70, 600 40 S 1000 10, 1200 40 L1200 120 L0 120 Z" fill="url(#g)"/>
+<path d="M0 60 C 250 35, 500 85, 750 58 S 1050 40, 1200 62 L1200 120 L0 120 Z" fill="#0f2027" fill-opacity=".6"/>
+<text x="600" y="100" text-anchor="middle" style="font:500 15px Consolas,'Courier New',monospace;fill:#9fd3e0;letter-spacing:2px">measure  ·  explain  ·  verify</text>
+</svg>
